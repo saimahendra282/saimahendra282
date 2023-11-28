@@ -1,2 +1,3 @@
-# hello every one
-I am sai mahendra bejawada and i am currently studying cse at KLEF,Vaddeswaram. i really enjoy web development using react and using backend app likes firebase and mongoDB,as well as non-coding app like notion,figma and wordpress. You can check out my codepen profile at https://codepen.io/sunstromium and linked at https://www.linkedin.com/in/bejawada-sai-mahendra-b18289212/
+# hello everyone
+
+I'm Sai Mahendra Bejawada, diving into the world of computer science at KLEF, Vaddeswaram. I find immense joy in crafting web experiences, especially with React at the frontend and dabbling in Firebase and MongoDB on the backend. Beyond the coding realm, I explore the wonders of tools like Notion, Figma, and WordPress. If you fancy a peek into my coding adventures, swing by my CodePen haven at https://codepen.io/sunstromium. And catch me on LinkedIn: https://www.linkedin.com/in/bejawada-sai-mahendra-b18289212/. Let's build digital wonders together!
