@@ -16,35 +16,32 @@
 </div>
 
 <div style="text-align: center; margin-top: 20px;">
-    <h3 style="font-weight: bold;">- Learning :</h3>
-    <ul style="list-style-type: none; padding-left: 0;">
-        <li style="font-size: 16px; margin-bottom: 10px;">✨ Python</li>
-        <li style="font-size: 16px; margin-bottom: 10px;">✨ Python Full Stack Web Development</li>
-        <li style="font-size: 16px;">✨ Ux designing using figma</li>
-    </ul>
+    <h3 style="font-weight: bold;">What I'm Doing Right Now:</h3>
+<h3 style="font-weight: bold;">- Academics :</h3>
+<ul style="list-style-type: none; padding-left: 0;">
+    <li style="font-size: 16px; margin-bottom: 10px;">✨ Studying BBA 1st Year & Computer Science Engineering (CSE) 2nd Year at KLEF University</li>
+    <li style="font-size: 16px;">✨ Learning UX Designing using Figma</li>
+</ul>
+
 </div>
 <div style="display: flex; justify-content: center; align-items: flex-start;">
  
 <div >
-<img align="right" alt="GIF" src="https://github.com/sunstromium/sunstromium/blob/main/Assets/gaming.gif" style="margin-left: -20px; margin-top: -10px;">
+<img align="right" height="200" width="400" alt="GIF" src="https://github.com/sunstromium/sunstromium/blob/main/Assets/gaming.gif" style="position: absolute; top: -50px; left: -15px;">
     </div>
     <div style="text-align: center;">
        <h3 style="font-weight: bold;">- Hobbies :</h3>
-        <ul style="list-style-type: none; padding-left: 0;">
-            <li style="font-size: 16px; margin-bottom: 10px;">✨ Gaming Addict</li>
-            <li style="font-size: 16px; margin-bottom: 10px;">✨ Watching Anime</li>
-            <li style="font-size: 16px; margin-bottom: 10px;">✨ Reading Light Novels</li>
-            <li style="font-size: 16px;">✨ Badminton (Neighbourhood Professional XD)</li>
-        </ul>
+<ul style="list-style-type: none; padding-left: 0;">
+    <li style="font-size: 16px; margin-bottom: 10px;">✨ Gaming</li>
+    <li style="font-size: 16px; margin-bottom: 10px;">✨ Watching Anime</li>
+    <li style="font-size: 16px; margin-bottom: 10px;">✨ Reading Manga (Sometimes)</li>
+    <li style="font-size: 16px;">✨ Coding (small HTML and Python codes)</li>
+</ul>
     </div>
-    
 </div>
-
-
 </br>
 </br>
 </br>
-
 
 
 # Languages & Tools 👨‍💻 🛠:
@@ -53,25 +50,81 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
+<div align="center">
+
+<h3 align="center">Languages</h3>
+    
+  [![My Skills](https://skillicons.dev/icons?i=c,java,python,javascript,html,css&perline=7)](https://skillicons.dev)
+
+  </div>
+
+
+
+<h3 align="center">Frontend</h3>
+<div align="center">
+
+    
+  [![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind,redux,nextjs,scss&perline=6)](https://skillicons.dev)
+
+  </div>
+
+
+<h3 align="center">Backend</h3>
+<div align="center">
+
+    
+  [![My Skills](https://skillicons.dev/icons?i=express,nodejs&perline=6)](https://skillicons.dev)
+
+  </div>
+</p>
+
+<h3 align="center">Database</h3>
+<div align="center">
+
+    
+  [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=6)](https://skillicons.dev)
+
+  </div>
+</p>
+
+<h3 align="center">Cloud and Hosting</h3>
+<div align="center">
+
+    
+  [![My Skills](https://skillicons.dev/icons?i=netlify,firebase,aws&perline=6)](https://skillicons.dev)
+
+  </div>
+</p>
+<h3 align="center">VC/CI/CD</h3>
+<div align="center">
+
+    
+  [![My Skills](https://skillicons.dev/icons?i=git,github&perline=6)](https://skillicons.dev)
+
+  </div>
+</p>
+<h3 align="center">Tools and Code editors </h3>
+<div align="center">
+
+    
+  [![My Skills](https://skillicons.dev/icons?i=idea,vscode,postman,figma,pycharm,eclipse&perline=6)](https://skillicons.dev)
+
+  </div>
+</p>
 </p>
 </br>
 </br>
 </br>
 
-
-
+# My Coding Profiles:
+<a href="https://www.hackerrank.com/profile/h2200030548">
+<img align="left" alt=" Hackerrank" width="40" hight="20" src="https://raw.githubusercontent.com/sunstromium/sunstromium/90b3b1517edf404909783b61e862af0f032f419c/Assets/hackerrank.svg" />
+</a><a href="https://www.codechef.com/users/klu_2200030548">
+<img align="left" alt=" codechef" width="40" hight="20" src="https://raw.githubusercontent.com/sunstromium/sunstromium/6bd1be0f42410982a0d9e6bed2c811ce54d5ccb0/Assets/icons8-codechef.svg" />
+</a><a href="https://codepen.io/sunstromium">
+<img align="left" alt=" codepen" width="40" hight="20" src="https://github.com/sunstromium/sunstromium/blob/main/Assets/fincodepen.png" />
+</a>
+<br/><br/><br/>
 # Contact Me :
 
 <p>
@@ -112,9 +165,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 
 <p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
-  </a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sunstromium&theme=dark&hide_longest_streak=true" alt="GitHub Streak" /></a>
   </p>
 
 *************
