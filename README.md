@@ -1,6 +1,6 @@
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF770&random=false&width=435&lines=Hello+There!;I+am+Sai+Mahendra+%F0%9F%98%8E" alt="Typing SVG" /></a>
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/sunstromium/sunstromium/blob/main/Assets/welcome.gif">
 </div>
 
 </br>
@@ -8,21 +8,38 @@
 </br>
 
 
-# About ME 💬 :
+# About ME ❓ :
 
-### - I'm 19 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
+### - I'm a 19-year-old enthusiast from India who's passionate about web development!
+<div style="text-align: center;">
+    <img height="300" width="700" alt="GIF" src="https://github.com/sunstromium/sunstromium/blob/main/Assets/coding.gif">
+</div>
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<div style="text-align: center; margin-top: 20px;">
+    <h3 style="font-weight: bold;">- Learning :</h3>
+    <ul style="list-style-type: none; padding-left: 0;">
+        <li style="font-size: 16px; margin-bottom: 10px;">✨ Python</li>
+        <li style="font-size: 16px; margin-bottom: 10px;">✨ Python Full Stack Web Development</li>
+        <li style="font-size: 16px;">✨ Ux designing using figma</li>
+    </ul>
+</div>
+<div style="display: flex; justify-content: center; align-items: flex-start;">
+ 
+<div >
+<img align="right" alt="GIF" src="https://github.com/sunstromium/sunstromium/blob/main/Assets/gaming.gif" style="margin-left: -20px; margin-top: -10px;">
+    </div>
+    <div style="text-align: center;">
+       <h3 style="font-weight: bold;">- Hobbies :</h3>
+        <ul style="list-style-type: none; padding-left: 0;">
+            <li style="font-size: 16px; margin-bottom: 10px;">✨ Gaming Addict</li>
+            <li style="font-size: 16px; margin-bottom: 10px;">✨ Watching Anime</li>
+            <li style="font-size: 16px; margin-bottom: 10px;">✨ Reading Light Novels</li>
+            <li style="font-size: 16px;">✨ Badminton (Neighbourhood Professional XD)</li>
+        </ul>
+    </div>
+    
+</div>
 
-### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ Generative Adversarial Networks
-
-### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
 
 </br>
 </br>
