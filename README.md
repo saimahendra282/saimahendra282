@@ -1,4 +1,10 @@
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF770&random=false&width=435&lines=Hello+There!;I+am+Sai+Mahendra+%F0%9F%98%8E" alt="Typing SVG" /></a>
+<div style="text-align: center; margin: auto;">
+    <a href="https://git.io/typing-svg">
+        <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF770&random=false&width=435&lines=Hello+There!;I+am+Sai+Mahendra+%F0%9F%98%8E" alt="Typing SVG" style="display: block; margin: auto;" />
+    </a>
+</div>
+
+
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/sunstromium/sunstromium/blob/main/Assets/welcome.gif">
 </div>
@@ -10,7 +16,7 @@
 
 # About ME ❓ :
 
-### - I'm a 19-year-old enthusiast from India who's passionate about web development!
+### <p>I'm a <span id="age">19</span>-year-old enthusiast from India who's passionate about web development!</p>
 <div style="text-align: center;">
     <img height="300" width="700" alt="GIF" src="https://github.com/sunstromium/sunstromium/blob/main/Assets/coding.gif">
 </div>
@@ -20,7 +26,11 @@
 <h3 style="font-weight: bold;">- Academics :</h3>
 <ul style="list-style-type: none; padding-left: 0;">
     <li style="font-size: 16px; margin-bottom: 10px;">✨ Studying BBA 1st Year & Computer Science Engineering (CSE) 2nd Year at KLEF University</li>
-    <li style="font-size: 16px;">✨ Learning UX Designing using Figma</li>
+</ul>
+<h3 style="font-weight: bold;">- Self-Taught :</h3>
+<ul style="list-style-type: none; padding-left: 0;">
+        <li style="font-size: 16px;">✨ Learning UX Designing using Figma</li>
+
 </ul>
 
 </div>
@@ -48,8 +58,6 @@
 </br>
 
 <p align="center">
-
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <div align="center">
 
 <h3 align="center">Languages</h3>
@@ -125,6 +133,7 @@
 <img align="left" alt=" codepen" width="40" hight="20" src="https://github.com/sunstromium/sunstromium/blob/main/Assets/fincodepen.png" />
 </a>
 <br/><br/><br/>
+
 # Contact Me :
 
 <p>
