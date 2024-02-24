@@ -1,6 +1,6 @@
   window.onload = function() {
     // Birthday date in YYYY-MM-DD format
-    var birthday = new Date('1992-01-01');
+    var birthday = new Date('2004-07-29');
     var age = calculateAge(birthday);
     document.getElementById('age').innerText = age;
   };
