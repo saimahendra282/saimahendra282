@@ -2,6 +2,8 @@
     <a href="https://git.io/typing-svg">
         <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF770&random=false&width=435&lines=Hello+There!;I+am+Sai+Mahendra+%F0%9F%98%8E" alt="Typing SVG" style="display: block; margin: auto;" />
     </a>
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunstromium&label=Profile%20views&color=0e75b6&style=flat" alt="sunstromium" /> </p>
+
 </div>
 
 
