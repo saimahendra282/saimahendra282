@@ -143,8 +143,6 @@
 
 # Contact Me :
 <p>
-Here are my contact: .
-
 <a href="bejawadasaimahendra@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
@@ -156,16 +154,6 @@ Here are my contact: .
 </a>
  </p>
  </br>
-
-
-
- 
-
-</br>
-</br>
-</br>
-</br>
-</br>
 </br>
 </br>
 <p align="center" >  
