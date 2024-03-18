@@ -156,13 +156,19 @@
  </br>
 </br>
 </br>
-<p align="center" >  
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sunstromium&theme=dark&hide_longest_streak=true" alt="GitHub Streak" /></a>
+    <p align="center"  >Most Used Languages:</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimahendra282&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="GitHub Streak" align="center" /></a>
+<p align="center" >My Stats ⭐:</p>
+<img align="center"  src="https://github-readme-stats.vercel.app/api?username=saimahendra282&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"></a>
   </p>
-<h3 align="center"> 🐍 My Contributions 🐍 </h3>
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
+<h3 align="center">  My Contributions  </h3>
+<p align="center"> 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=saimahendra282&theme=tokyonight&hide_border=false">
 </p>
+<p align="center">
+    
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="my_snake-stats" />
+
 
 *************
