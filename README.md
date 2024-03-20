@@ -134,9 +134,9 @@
 # My Coding Profiles:
 <a href="https://www.hackerrank.com/profile/h2200030548">
 <img align="left" alt=" Hackerrank" width="40" hight="20" src="https://raw.githubusercontent.com/sunstromium/sunstromium/90b3b1517edf404909783b61e862af0f032f419c/Assets/hackerrank.svg" />
-</a><a href="https://www.codechef.com/users/klu_2200030548">
+</a><a href="https://www.codechef.com/users/sai_2200030548">
 <img align="left" alt=" codechef" width="40" hight="20" src="https://raw.githubusercontent.com/sunstromium/sunstromium/6bd1be0f42410982a0d9e6bed2c811ce54d5ccb0/Assets/icons8-codechef.svg" />
-</a><a href="https://codepen.io/sunstromium">
+</a><a href="https://codepen.io/saimahendra">
 <img align="left" alt=" codepen" width="40" hight="20" src="https://github.com/sunstromium/sunstromium/blob/main/Assets/fincodepen.png" />
 </a>
 <br/><br/><br/>
