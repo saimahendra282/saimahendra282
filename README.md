@@ -13,7 +13,7 @@
 
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/sunstromium/sunstromium/blob/main/Assets/welcome.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/saimahendra282/saimahendra282/blob/main/Assets/welcome.gif">
 </div>
 
 </br>
@@ -25,7 +25,7 @@
 
 ### <p>I'm a <span id="age">19</span>-year-old enthusiast from India who's passionate about web development!</p>
 <div style="text-align: center;">
-    <img height="300" width="700" alt="GIF" src="https://github.com/sunstromium/sunstromium/blob/main/Assets/coding.gif">
+    <img height="300" width="700" alt="GIF" src="https://github.com/saimahendra282/saimahendra282/blob/main/Assets/coding.gif">
 </div>
 
 <div style="text-align: center; margin-top: 20px;">
@@ -44,7 +44,7 @@
 <div style="display: flex; justify-content: center; align-items: flex-start;">
  
 <div >
-<img align="right" height="200" width="400" alt="GIF" src="https://github.com/sunstromium/sunstromium/blob/main/Assets/gaming.gif" style="position: absolute; top: -50px; left: -15px;">
+<img align="right" height="200" width="400" alt="GIF" src="https://github.com/saimahendra282/saimahendra282/blob/main/Assets/gaming.gif" style="position: absolute; top: -50px; left: -15px;">
     </div>
     <div style="text-align: center;">
        <h3 style="font-weight: bold;">- Hobbies :</h3>
@@ -133,11 +133,11 @@
 
 # My Coding Profiles:
 <a href="https://www.hackerrank.com/profile/h2200030548">
-<img align="left" alt=" Hackerrank" width="40" hight="20" src="https://raw.githubusercontent.com/sunstromium/sunstromium/90b3b1517edf404909783b61e862af0f032f419c/Assets/hackerrank.svg" />
+<img align="left" alt=" Hackerrank" width="40" hight="20" src="https://raw.githubusercontent.com/saimahendra282/saimahendra282/90b3b1517edf404909783b61e862af0f032f419c/Assets/hackerrank.svg" />
 </a><a href="https://www.codechef.com/users/sai_2200030548">
-<img align="left" alt=" codechef" width="40" hight="20" src="https://raw.githubusercontent.com/sunstromium/sunstromium/6bd1be0f42410982a0d9e6bed2c811ce54d5ccb0/Assets/icons8-codechef.svg" />
+<img align="left" alt=" codechef" width="40" hight="20" src="https://raw.githubusercontent.com/saimahendra282/saimahendra282/6bd1be0f42410982a0d9e6bed2c811ce54d5ccb0/Assets/icons8-codechef.svg" />
 </a><a href="https://codepen.io/saimahendra">
-<img align="left" alt=" codepen" width="40" hight="20" src="https://github.com/sunstromium/sunstromium/blob/main/Assets/fincodepen.png" />
+<img align="left" alt=" codepen" width="40" hight="20" src="https://github.com/saimahendra282/saimahendra282/blob/main/Assets/fincodepen.png" />
 </a>
 <br/><br/><br/>
 
