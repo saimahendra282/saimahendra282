@@ -4,6 +4,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/saimahendra282?style=plastic&logo=appveyor&labelColor=ffffff&color=fedcba&cacheSeconds=3900)
 
+#  
 </div>
     <a href="https://git.io/typing-svg">
         <img style="align-items:center;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF770&random=false&width=435&lines=Kon'nichiwa!;I+am+Sai+Mahendra+%F0%9F%98%8E" alt="Typing SVG" style="display: block; margin: auto;" />
@@ -16,118 +17,56 @@
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/saimahendra282/saimahendra282/blob/main/Assets/welcome.gif">
 </div>
 
-</br>
-</br>
-</br>
 
-
-# About ME ❓ :
-
-### <p>I'm a <span id="age">20</span>-year-old enthusiast from India who's passionate about web development!</p>
-<div style="text-align: center;">
-    <img height="200" width="200" alt="GIF" 
-         src="https://github.com/saimahendra282/saimahendra282/blob/5e1dbfb3b7b79ac037403fc145c121ec9add8c69/Assets/anime-typing.gif"
-         style="display: block; margin: 0 auto;">
+<h1 align='center'>About ME ❓:</h1>
+<div style="align-items: right;">
+    <img  alt="GIF" align='right' width = 300px hieght = 300px
+         src="https://github.com/saimahendra282/saimahendra282/blob/eb4c369f56b748565de2551694eb283d1cffa56d/Assets/dumb-san.gif">
 </div>
+<div style=" align-items: left; test-align:left">
 
-
-<div style="text-align: center; margin-top: 20px;">
-    <h3 style="font-weight: bold;">What I'm Doing Right Now:</h3>
-<h3 style="font-weight: bold;">- Academics :</h3>
-<ul style="list-style-type: none; padding-left: 0;">
-    <li style="font-size: 16px; margin-bottom: 10px;">✨ Studying BBA 1st Year & Computer Science Engineering (CSE) 3rd Year at KLEF University</li>
-</ul>
-<h3 style="font-weight: bold;">- Self-Taught :</h3>
-<ul style="list-style-type: none; padding-left: 0;">
-        <li style="font-size: 16px;">✨ Learning UX Designing using Figma</li>
-
-</ul>
-
-</div>
-<div style="display: flex; justify-content: center; align-items: flex-start;">
+    ```
+    {
+    "Name": "Bejawada Sai Mahendra",
+    "Age": "20",
+    "Pronouns": "He/Him",
+    "Academics": "I am pursuing a dual degree (BBA[I] && B.TECH CSE [III])",
+    "Description": "I love developing
+                    automation scripts,
+                    web apps, and integrating AI models into programs.
+                    Currently, I am learning the Gemini API.",
+    "Location": "Chiamkurthy, Ongole",
+    "Hobbies": [
+        "Gaming",
+        "Watching anime",
+        "Coding while listening to music"
+    ]
+    "Skills": {
+        "Technical": [
+            "C", "Problem Solving", "Data Structures", "Java",  "Html", "API Integration",
+            "Css","Js","Python","React","Mysql","Firebase","Nodejs","Postgres","MongoDb",
+            "Netlify"...
+        ],
+        "Soft Skills": [
+            "Communication","Teamwork","Problem Solving","Adapdabilty"
+        ],
+        "Gaming": [
+            "Strategy Games","Role-Playing Games","Action Games"
+        ]
+    }
+    }
  
-<div >
-<img align="right" height="200" width="400" alt="GIF" src="https://github.com/saimahendra282/saimahendra282/blob/main/Assets/gaming.gif" style="position: absolute; top: -50px; left: -15px;">
-    </div>
-    <div style="text-align: center;">
-       <h3 style="font-weight: bold;">- Hobbies :</h3>
-<ul style="list-style-type: none; padding-left: 0;">
-    <li style="font-size: 16px; margin-bottom: 10px;">✨ Gaming</li>
-    <li style="font-size: 16px; margin-bottom: 10px;">✨ Watching Anime</li>
-    <li style="font-size: 16px; margin-bottom: 10px;">✨ Reading Manga (Sometimes)</li>
-    <li style="font-size: 16px;">✨ Coding (small HTML and Python codes)</li>
-</ul>
-    </div>
-</div>
-</br>
-</br>
-</br>
-
-
-# Languages & Tools 👨‍💻 🛠:
-</br>
-
-<p align="center">
-<div align="center">
-
-<h3 align="center">Languages</h3>
-    
-  [![My Skills](https://skillicons.dev/icons?i=c,java,python,javascript,html,css&perline=7)](https://skillicons.dev)
-
-  </div>
-
-
-
-<h3 align="center">Frontend</h3>
-<div align="center">
-
-    
-  [![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind,redux,nextjs,scss&perline=6)](https://skillicons.dev)
-
-  </div>
-
-
-<h3 align="center">Backend</h3>
-<div align="center">
-
-    
-  [![My Skills](https://skillicons.dev/icons?i=express,nodejs&perline=6)](https://skillicons.dev)
-
-  </div>
-</p>
-
-<h3 align="center">Database</h3>
-<div align="center">
-
-    
-  [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=6)](https://skillicons.dev)
-
-  </div>
-</p>
-
-<h3 align="center">Cloud and Hosting</h3>
-<div align="center">
-
-    
-  [![My Skills](https://skillicons.dev/icons?i=netlify,firebase,aws&perline=6)](https://skillicons.dev)
-
-  </div>
-</p>
-<h3 align="center">VC/CI/CD</h3>
-<div align="center">
-
-    
-  [![My Skills](https://skillicons.dev/icons?i=git,github&perline=6)](https://skillicons.dev)
-
-  </div>
-</p>
+    ```
+#  
 <h3 align="center">Tools and Code editors </h3>
 <div align="center">
 
     
-  [![My Skills](https://skillicons.dev/icons?i=idea,vscode,postman,figma,pycharm,eclipse&perline=6)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=idea,arduino,firebase,github,gcp,vscode,postman,notion,figma,pycharm,eclipse&perline=4)](https://skillicons.dev)
+<img align='right' height="200px" width="200px" src="https://github.com/saimahendra282/saimahendra282/blob/29053d5af566013a37a2c105a9f03609e3d9bb85/Assets/I%20only%20use%20notepad%20for%20coding.gif">
 
   </div>
+  
 </p>
 </p>
 </br>
@@ -137,7 +76,7 @@
 # My Coding Profiles:
 <a href="https://www.hackerrank.com/profile/h2200030548">
 <img align="left" alt=" Hackerrank" width="40" hight="20" src="https://raw.githubusercontent.com/saimahendra282/saimahendra282/90b3b1517edf404909783b61e862af0f032f419c/Assets/hackerrank.svg" />
-</a><a href="https://www.codechef.com/users/sai_2200030548">
+</a><a href="https://www.codechef.com/users/sai_30548">
 <img align="left" alt=" codechef" width="40" hight="20" src="https://raw.githubusercontent.com/saimahendra282/saimahendra282/6bd1be0f42410982a0d9e6bed2c811ce54d5ccb0/Assets/icons8-codechef.svg" />
 </a><a href="https://codepen.io/saimahendra">
 <img align="left" alt=" codepen" width="40" hight="20" src="https://github.com/saimahendra282/saimahendra282/blob/main/Assets/fincodepen.png" />
@@ -174,4 +113,3 @@
     alt="my_snake-stats" />
 
 
-*************
