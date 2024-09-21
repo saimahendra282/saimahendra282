@@ -6,7 +6,7 @@
 
 </div>
     <a href="https://git.io/typing-svg">
-        <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF770&random=false&width=435&lines=Hello+There!;I+am+Sai+Mahendra+%F0%9F%98%8E" alt="Typing SVG" style="display: block; margin: auto;" />
+        <img style="align-items:center;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF770&random=false&width=435&lines=Kon'nichiwa!;I+am+Sai+Mahendra+%F0%9F%98%8E" alt="Typing SVG" style="display: block; margin: auto;" />
     </a>
     
 </div>
@@ -23,16 +23,19 @@
 
 # About ME ❓ :
 
-### <p>I'm a <span id="age">19</span>-year-old enthusiast from India who's passionate about web development!</p>
+### <p>I'm a <span id="age">20</span>-year-old enthusiast from India who's passionate about web development!</p>
 <div style="text-align: center;">
-    <img height="300" width="700" alt="GIF" src="https://github.com/saimahendra282/saimahendra282/blob/main/Assets/coding.gif">
+    <img height="200" width="200" alt="GIF" 
+         src="https://github.com/saimahendra282/saimahendra282/blob/5e1dbfb3b7b79ac037403fc145c121ec9add8c69/Assets/anime-typing.gif"
+         style="display: block; margin: 0 auto;">
 </div>
+
 
 <div style="text-align: center; margin-top: 20px;">
     <h3 style="font-weight: bold;">What I'm Doing Right Now:</h3>
 <h3 style="font-weight: bold;">- Academics :</h3>
 <ul style="list-style-type: none; padding-left: 0;">
-    <li style="font-size: 16px; margin-bottom: 10px;">✨ Studying BBA 1st Year & Computer Science Engineering (CSE) 2nd Year at KLEF University</li>
+    <li style="font-size: 16px; margin-bottom: 10px;">✨ Studying BBA 1st Year & Computer Science Engineering (CSE) 3rd Year at KLEF University</li>
 </ul>
 <h3 style="font-weight: bold;">- Self-Taught :</h3>
 <ul style="list-style-type: none; padding-left: 0;">
