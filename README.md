@@ -62,8 +62,8 @@
 <div align="center">
 
     
-  [![My Skills](https://skillicons.dev/icons?i=idea,arduino,firebase,github,gcp,vscode,postman,notion,figma,pycharm,eclipse&perline=4)](https://skillicons.dev)
-<img align='right' height="200px" width="200px" src="https://github.com/saimahendra282/saimahendra282/blob/29053d5af566013a37a2c105a9f03609e3d9bb85/Assets/I%20only%20use%20notepad%20for%20coding.gif">
+  [![My Skills](https://skillicons.dev/icons?i=idea,arduino,firebase,github,gcp,vscode,postman,notion,codepen,figma,pycharm,eclipse&perline=5)](https://skillicons.dev)
+<img align='left' height="200px" width="200px" src="https://github.com/saimahendra282/saimahendra282/blob/29053d5af566013a37a2c105a9f03609e3d9bb85/Assets/I%20only%20use%20notepad%20for%20coding.gif">
 
   </div>
   
