@@ -30,7 +30,7 @@
     "Name": "Bejawada Sai Mahendra",
     "Age": "20",
     "Pronouns": "He/Him",
-    "Academics": "I am pursuing a dual degree (BBA[I] && B.TECH CSE [III])",
+    "Academics": "I am pursuing a dual degree (BBA[II] && B.TECH CSE [III])",
     "Description": "I love developing
                     automation scripts,
                     web apps, and integrating AI models into programs.
