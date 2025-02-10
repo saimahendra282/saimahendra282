@@ -64,11 +64,12 @@
         Learning Go Lang
     </li>
     <li>
-        Gemini Api generative applications in py
+       Expressive  Gemini Api generative applications in py
     </li>
     <li>
-        Learning to build agentic ai using llm and generative ai models... 
+        Learning to build cloud based agentic ai using llm and generative ai models... (Term Paper)
     </li>
+    
 </ul>
  
 #  
