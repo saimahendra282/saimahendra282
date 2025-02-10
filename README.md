@@ -67,7 +67,7 @@
        Expressive  Gemini Api generative applications in py
     </li>
     <li>
-        Learning to build cloud based agentic ai using llm and generative ai models... (Term Paper)
+        Learning to build cloud based agentic ai using llm and generative ai models in health care sector... (Term Paper)
     </li>
     
 </ul>
