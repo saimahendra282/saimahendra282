@@ -57,6 +57,20 @@
     }
  
     ```
+#
+<h3 align="center">What am i doing now ❔❔❔</h3>
+<ul>
+    <li>
+        Learning Go Lang
+    </li>
+    <li>
+        Gemini Api generative applications in py
+    </li>
+    <li>
+        Learning to build agentic ai using llm and generative ai models... 
+    </li>
+</ul>
+ 
 #  
 <h3 align="center">Tools and Code editors </h3>
 <div align="center">
@@ -73,7 +87,8 @@
 </br>
 </br>
 
-# My Coding Profiles:
+#
+<h3 align="center">My Coding Profiles:</h3>
 <a href="https://www.hackerrank.com/profile/h2200030548">
 <img align="left" alt=" Hackerrank" width="40" hight="20" src="https://raw.githubusercontent.com/saimahendra282/saimahendra282/90b3b1517edf404909783b61e862af0f032f419c/Assets/hackerrank.svg" />
 </a><a href="https://www.codechef.com/users/sai_30548">
@@ -83,7 +98,8 @@
 </a>
 <br/><br/><br/>
 
-# Contact Me :
+#
+<h3 align="center">To Contact Me:</h3>
 <p>
 <a href="bejawadasaimahendra@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
@@ -98,9 +114,9 @@
  </br>
 </br>
 </br>
-    <p align="center"  >Most Used Languages:</p>
+    <h3 align="center"  >Most Used Languages:</p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimahendra282&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="GitHub Streak" align="center" /></a>
-<p align="center" >My Stats ⭐:</p>
+<h3 align="center" >My Stats ⭐:</p>
 <img align="center"  src="https://github-readme-stats.vercel.app/api?username=saimahendra282&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"></a>
   </p>
 <h3 align="center">  My Contributions  </h3>
