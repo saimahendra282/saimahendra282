@@ -34,7 +34,7 @@
     "Description": "I love developing
                     automation scripts,
                     web apps, and integrating AI models into programs.
-                    Currently, I am learning the Gemini API.",
+                    Currently, I am learning the Gemini API and go lang.",
     "Location": "Chiamkurthy, Ongole",
     "Hobbies": [
         "Gaming",
