@@ -115,19 +115,15 @@
  </br>
 </br>
 </br>
-    ---
-<div align="center">
-<h3 align="center">⚡  Git Status ⚡ </h3>
-<br>
-<div align=center>
-[![GitHub Streak](https://streak-stats.demolab.com?user=saimahendra282&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=saimahendra282&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=saimahendra282&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-</div>
-
----
+     <h3 align="center"  >Most Used Languages:</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimahendra282&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="GitHub Streak" align="center" /></a>
+<h3 align="center" >My Stats ⭐:</p>
+<img align="center"  src="https://github-readme-stats.vercel.app/api?username=saimahendra282&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"></a>
+  </p>
+<h3 align="center">  My Contributions  </h3>
+<p align="center"> 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=saimahendra282&theme=tokyonight&hide_border=false">
+</p>
 <p align="center">
     
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
