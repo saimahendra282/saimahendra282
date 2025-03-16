@@ -7,7 +7,7 @@
 #  
 </div>
     <a href="https://git.io/typing-svg" style="display: flex; align-items: center; justify-content: center;">
-        <img style="align-items:center;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF770&random=false&width=435&lines=Kon'nichiva!;I+am+Sai+Mahendra+%F0%9F%98%8E" alt="Typing SVG" style="display: block; margin: auto;" />
+        <img style="align-items:center;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF770&random=false&width=435&lines=నమస్కారం!;నా+పేరు+సాయి+మహేంద్ర+🤓;नमस्ते!;मेरा+नाम+साई+महेंद्र+है+🙃;Hello;I+am+Sai+Mahendra+%F0%9F%98%8E;こんにちは!;私の名前はサイ+・マヘンドラです+㊙" alt="Typing SVG" style="display: block; margin: auto;" />
     </a>
     
 </div>
