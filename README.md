@@ -4,7 +4,6 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/saimahendra282?style=plastic&logo=appveyor&labelColor=ffffff&color=fedcba&cacheSeconds=3900)
 
-#  
 </div>
     <a href="https://git.io/typing-svg" style="display: flex; align-items: center; justify-content: center;">
         <img style="align-items:center;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF770&random=false&width=435&lines=నమస్కారం!;నా+పేరు+సాయి+మహేంద్ర+🤓;नमस्ते!;मेरा+नाम+साई+महेंद्र+है+🙃;Hello;I+am+Sai+Mahendra+%F0%9F%98%8E;こんにちは!;私の名前はサイ+・マヘンドラです+㊙" alt="Typing SVG" style="display: block; margin: auto;" />
@@ -57,8 +56,9 @@
     }
  
     ```
-#
 <h3 align="center">What am i doing now ❔❔❔</h3>
+
+#
 <ul>
     <li>
         Learning Go Lang
@@ -71,9 +71,10 @@
     </li>
     
 </ul>
+ <h3 align="center">Tools and Code editors </h3>
  
 #  
-<h3 align="center">Tools and Code editors </h3>
+
 <div align="center">
 
     
@@ -87,9 +88,10 @@
 </br>
 </br>
 </br>
+<h3 align="center">My Coding Profiles:</h3>
 
 #
-<h3 align="center">My Coding Profiles:</h3>
+
 <a href="https://www.hackerrank.com/profile/h2200030548">
 <img align="left" alt=" Hackerrank" width="40" hight="20" src="https://raw.githubusercontent.com/saimahendra282/saimahendra282/90b3b1517edf404909783b61e862af0f032f419c/Assets/hackerrank.svg" />
 </a><a href="https://www.codechef.com/users/sai_30548">
@@ -98,9 +100,10 @@
 <img align="left" alt=" codepen" width="40" hight="20" src="https://github.com/saimahendra282/saimahendra282/blob/main/Assets/fincodepen.png" />
 </a>
 <br/><br/><br/>
+<h3 align="center">To Contact Me:</h3>
 
 #
-<h3 align="center">To Contact Me:</h3>
+
 <p>
 <a href="bejawadasaimahendra@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
@@ -116,6 +119,8 @@
 </br>
 </br>
      <h3 align="center"  >Most Used Languages:</p>
+         
+#
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimahendra282&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="GitHub Streak" align="center" /></a>
 <h3 align="center" >My Stats ⭐:</p>
 <img align="center"  src="https://github-readme-stats.vercel.app/api?username=saimahendra282&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"></a>
