@@ -5,9 +5,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/saimahendra282?style=plastic&logo=appveyor&labelColor=ffffff&color=fedcba&cacheSeconds=3900)
 
 </div>
-    <a href="https://git.io/typing-svg" style="display: flex; align-items: center; justify-content: center;">
-        <img style="align-items:center;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF770&random=false&width=435&lines=నమస్కారం!;నా+పేరు+సాయి+మహేంద్ర+🤓;नमस्ते!;मेरा+नाम+साई+महेंद्र+है+🙃;Hello;I+am+Sai+Mahendra+%F0%9F%98%8E;こんにちは!;私の名前はサイ+・マヘンドラです+㊙" alt="Typing SVG" style="display: block; margin: auto;" />
-    </a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=34F713&center=true&vCenter=true&width=435&lines=%E0%B0%A8%E0%B0%AE%E0%B0%B8%E0%B1%8D%E0%B0%95%E0%B0%BE%E0%B0%B0%E0%B0%82!;%E0%B0%A8%E0%B0%BE+%E0%B0%AA%E0%B1%87%E0%B0%B0%E0%B1%81+%E0%B0%B8%E0%B0%BE%E0%B0%AF%E0%B0%BF+%E0%B0%AE%E0%B0%B9%E0%B1%87%E0%B0%82%E0%B0%A6%E0%B1%8D%E0%B0%B0+%F0%9F%A4%93;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87!;%E0%A4%AE%E0%A5%87%E0%A4%B0%E0%A4%BE+%E0%A4%A8%E0%A4%BE%E0%A4%AE+%E0%A4%B8%E0%A4%BE%E0%A4%88+%E0%A4%AE%E0%A4%B9%E0%A5%87%E0%A4%82%E0%A4%A6%E0%A5%8D%E0%A4%B0+%E0%A4%B9%E0%A5%88+%F0%9F%99%83;Hello;+I+am+Sai+Mahendra+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!;%E7%A7%81%E3%81%AE%E5%90%8D%E5%89%8D%E3%81%AF%E3%82%B5%E3%82%A4%E3%83%BB%E3%83%9E%E3%83%98%E3%83%B3%E3%83%89%E3%83%A9%E3%81%A7%E3%81%99+%E3%8A%99" alt="Typing SVG" /></a>
     
 </div>
 
