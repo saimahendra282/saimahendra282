@@ -59,10 +59,10 @@
 #
 <ul>
     <li>
-        Learning Go Lang
+        Experimenting with extensions...
     </li>
     <li>
-       Expressive  Gemini Api generative applications in py
+       Real time  Gemini Api generative applications in py
     </li>
     <li>
         Learning to build cloud based agentic ai using llm and generative ai models in health care sector... (Term Paper)
@@ -86,7 +86,7 @@
 </br>
 </br>
 </br>
-<h3 align="center">My Coding Profiles:</h3>
+<h3 align="center"> Platforms I’ve Contributed Code To:</h3>
 
 #
 
