@@ -25,9 +25,9 @@
     ```
     {
     "Name": "Bejawada Sai Mahendra",
-    "Age": "20",
+    "Age": "21",
     "Pronouns": "He/Him",
-    "Academics": "I am pursuing a dual degree (BBA[II] && B.TECH CSE [III])",
+    "Academics": "I am pursuing a dual degree (BBA[III] && B.TECH CSE [IV])",
     "Description": "I love developing
                     automation scripts,
                     web apps, and integrating AI models into programs.
@@ -60,9 +60,6 @@
 <ul>
     <li>
         Experimenting with extensions...
-    </li>
-    <li>
-       Real time  Gemini Api generative applications in py
     </li>
     <li>
         Learning to build cloud based agentic ai using llm and generative ai models in health care sector... (Term Paper)
