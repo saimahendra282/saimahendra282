@@ -41,8 +41,7 @@
     "Skills": {
         "Technical": [
             "C", "Problem Solving", "Data Structures", "Java",  "Html", "API Integration",
-            "Css","Js","Python","React","Mysql","Firebase","Nodejs","Postgres","MongoDb",
-            "Netlify"...
+            "Css","Js","Python","React","Mysql","Nodejs","aws( ec2, s3, lambda, db services, cdn)"...
         ],
         "Soft Skills": [
             "Communication","Teamwork","Problem Solving","Adapdabilty"
